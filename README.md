@@ -25,4 +25,28 @@ Once the character has been selected, the player will be able to move freely on 
  * D = right;
  * MOUSE SX = atk;
  * SHIFT = run;
- 
+ * 
+## Achieved Goals:
+
+below will be listed the goals of the application related to game actions and animations:
+
+* the movement and actions of the character must be done through smooth animation.
+
+* the user must be able to access the next tower level through a door only if the enemies of that level have all been defeated.
+
+* The movement and actions of all NPCs (Non-Player Character) and enemies must be done via smooth animation.
+
+* there must be a camera with focus on the player character.
+
+* the user cannot exceed the map limits during the game.
+
+* Presence of game music and sounds.
+
+* maps are loaded randomly among those not yet explored by the player.
+
+## Future Goals:
+* Expand the number of levels (adding more floors to the tower).
+
+* Add levels with boss enemies
+
+* add NPCs and dialogues
