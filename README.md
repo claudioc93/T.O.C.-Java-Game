@@ -50,3 +50,7 @@ below will be listed the goals of the application related to game actions and an
 * Add levels with boss enemies
 
 * add NPCs and dialogues
+
+## Bibliography
+the following sites were used for the acquisition of images, music textures and sound effects:
+* [Character spritesheets](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator).
