@@ -25,3 +25,4 @@ Once the character has been selected, the player will be able to move freely on 
  * D = right;
  * MOUSE SX = atk;
  * SHIFT = run;
+ 
