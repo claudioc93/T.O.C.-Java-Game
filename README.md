@@ -25,7 +25,7 @@ Once the character has been selected, the player will be able to move freely on 
  * D = right;
  * MOUSE SX = atk;
  * SHIFT = run;
- * 
+
 ## Achieved Goals:
 
 below will be listed the goals of the application related to game actions and animations:
