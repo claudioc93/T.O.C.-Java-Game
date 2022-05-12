@@ -11,6 +11,10 @@ the player's goal is to complete the tower by facing all the enemies that are on
 Initially the user will be in front of the menu interface in which you will be able to select one of the following items:
  * Play: pressing this button the user is redirected to the character selection screen.
  * Exit: pressing this button exits the game, then the window it closes automatically.
+ 
+the player will be able to choose between six playable characters 
+
+<img src="https://user-images.githubusercontent.com/71399341/168169905-c35f1b3c-975b-4bd9-ae1b-de00052e39fc.png" width=50% height=50%>
 
 Once the character has been selected, the player will be able to move freely on the game map using the following commands:
  * W = up;
