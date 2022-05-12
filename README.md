@@ -1,8 +1,8 @@
-# T.O.C.-Java-Game
+# T.O.C.  Java Game
 Tower of chaos ( T.O.C.) is a simple 2D Java Game created using Netbeans IDE
 
 ## Introduction:
-this is an university project in collaboration with Alessandra Donnini.
+this is an university project in collaboration with Alessandra Donnini.                                                                                                     
 This game is programmed in Java only and using the multi-language integrated development environment Netbeans.
 
 ## The Application "Thower of Chaos":
