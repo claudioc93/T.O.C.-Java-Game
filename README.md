@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-Tower of chaos ( T.O.C.) is a simple 2D Java Game, this is an university project in collaboration with Alessandra Donnini.                                                   
+Tower of chaos ( T.O.C.) is a simple 2D Java Game, this is an university project in collaboration with [Alessandra Donnini](https://github.com/aled99-pixel).                 
 This game is programmed in Java only and using the multi-language integrated development environment Netbeans.
 
 ## The Application "Thower of Chaos":
